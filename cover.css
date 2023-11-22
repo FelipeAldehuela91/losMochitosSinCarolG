@@ -7,7 +7,7 @@
 .btn-secondary,
 .btn-secondary:hover,
 .btn-secondary:focus {
-  color: #333;
+  color: darkgreen;
   text-shadow: none; /* Prevent inheritance from `body` */
 }
 
@@ -48,6 +48,6 @@ body {
 }
 
 .nav-masthead .active {
-  color: #fff;
-  border-bottom-color: #fff;
+  color: #423636;
+  border-bottom-color: #440909;
 }
